@@ -1,0 +1,139 @@
+
+			body {
+              background-image: url("4thbp.jpg");
+            }
+            h1 {
+                text-align: center;
+                font-family: Verdana, Geneva, Tahoma, sans-serif;
+                font-style: italic;
+            }
+            .Firstline {
+                display: flex;
+            }
+            .isaac {
+                margin: auto;
+                border: 10px solid black;
+                border-radius: 20px;
+                background-color: beige;
+            }
+            .albert {
+                margin: auto;
+                border: 10px solid black;
+                border-radius: 20px;
+                background-color: beige;
+                
+            }
+            .faraday {
+                margin: auto;
+                border: 10px solid black;
+                border-radius: 20px;
+                background-color: beige;
+            }
+            .Secondline {
+                display: flex;
+            }
+            .franklin {
+                margin: auto;
+                border: 10px solid black;
+                border-radius: 20px;
+                background-color: beige;
+            }
+            .Statement {
+                margin: auto;
+                border: 20px solid black;
+                margin-left: 25px;
+                margin-right: 25px;
+                background-color: aqua;
+                transition: transform 0.2s;
+            }
+            .edison {
+                margin: auto;
+                border: 10px solid black;
+                border-radius: 20px;
+                background-color: beige;
+            }
+            .Thirdline {
+                display: flex;
+            }
+
+            .rutherford {
+                margin: auto;
+                border: 10px solid black;
+                border-radius: 20px;
+                background-color: beige;
+            }
+            .planck {
+                margin: auto;
+                border: 10px solid black;
+                border-radius: 20px;
+                background-color: beige;
+            }
+            .rontgen {
+                margin: auto;
+                border: 10px solid black;
+                border-radius: 20px;
+                background-color: beige;
+            }
+            .Fourthline {
+                display: flex;
+            }
+            .dalton {
+                margin: auto;
+                border: 10px solid black;
+                border-radius: 20px;
+                background-color: beige;
+            }
+            .fermi {
+                margin: auto;  
+                border: 10px solid black;
+                border-radius: 20px;
+                background-color: beige;
+
+            }
+            .chadwick {
+                margin: auto;
+                border: 10px solid black;
+                border-radius: 20px;
+                background-color: beige;
+
+            }
+            .Fifthline {
+                display: flex;
+            }
+            .coulomb {
+                margin: auto;  
+                border: 10px solid black;
+                border-radius: 20px;
+                background-color: beige;
+
+            }
+            .bohr {
+                margin: auto;  
+                border: 10px solid black;
+                border-radius: 20px;
+                background-color: beige;
+
+            }
+            .bacquerel {
+                margin: auto; 
+                border: 10px solid black;
+                border-radius: 20px;
+                background-color: beige;
+
+            }
+			div h1{
+				width: 350px;
+				margin-top: 20px;
+				margin-left: 15px;
+			}
+			
+			div img {
+				padding: 50px;
+				transition: transform 0.2s;
+			}
+			img:hover {
+				transform: scale(1.1);
+			}
+			div{
+				margin-top: 15px;
+			
